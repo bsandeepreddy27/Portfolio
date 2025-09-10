@@ -65,7 +65,7 @@ const Home: React.FC = () => {
                 <span role="img" aria-label="waving hand" className="animate-wave ml-4">👋</span>
               </h1>
               <p className="mt-4 text-lg text-slate-400 max-w-xl mx-auto">
-                Full Stack Developer | Python | MERN | Cloud Enthusiast
+                Full Stack Developer {/* | Python | MERN | Cloud Enthusiast */}
               </p>
               <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center">
                 <button
