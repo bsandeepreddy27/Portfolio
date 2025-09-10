@@ -2,8 +2,6 @@
 
 This is a personal portfolio website built with React, TypeScript, and Vite, designed to showcase projects, skills, and professional experience. It's styled with Tailwind CSS for a modern, responsive, and clean user interface.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fbsandeepreddy27%2FPortfolio-Website)
-
 ## Table of Contents
 
 - [Features](#features)
